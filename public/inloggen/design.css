@@ -247,9 +247,9 @@ button {
 input[type=text], select, textarea {
     display: block;
   width: 100%;
-  padding: 12px;
-  border: 1px solid black;
-  border-radius: 4px;
+  padding: 15px;
+  border: 2px solid #8aecff;
+  border-radius: 50px;
   resize: vertical;
       margin-left: 0%;
       width: 40%;
@@ -258,9 +258,9 @@ input[type=text], select, textarea {
 input[type=password], select, textarea {
       display: block;
   width: 100%;
-  padding: 12px;
-  border: 1px solid black;
-  border-radius: 4px;
+  padding: 15px;
+  border: 2px solid #8aecff;
+  border-radius: 50px;
   resize: vertical;
   margin-left: 0%;
       width: 40%;
